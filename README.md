@@ -1,5 +1,6 @@
-# INET3101-lab1.5
+# INET3101 C Programming Lab 1.5
 
+##
 Assignment Overview
 Review Dynamic Memory Examples:
 

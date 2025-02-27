@@ -5,7 +5,7 @@
 
 - Review Dynamic Memory Examples:
 
-#Examine each numbered file in the inet3101-dynamic-memory repository. Follow the instructions at the bottom of each file, which may involve:
+# Examine each numbered file in the inet3101-dynamic-memory repository. Follow the instructions at the bottom of each file, which may involve:
 
 Explaining concepts in a short paragraph.
 Making the code work.
